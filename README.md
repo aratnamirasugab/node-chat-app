@@ -1,5 +1,5 @@
 # Chat App
-Web based chat application made possible by socketIO to build real-time chat application.
+Web based chat application made possible by Socket.IO to build real-time chat application.
 You can try the demo by accessing the [Link](https://node-app-socketio.herokuapp.com/)
 
 ## Built With
