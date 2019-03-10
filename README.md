@@ -8,4 +8,4 @@ You can see try the demo by accessing the [Link](https://node-app-socketio.herok
 * [Express](https://expressjs.com/en/4x/api.html)
 * [Npm Bad words](https://www.npmjs.com/package/bad-words)
 
-note : This is an course project that was intented to extend my knowledge about nodeJS
+note : This is a course project that was intented to extend my knowledge about nodeJS
